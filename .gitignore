@@ -1,2 +1,6 @@
 .idea/
+__pycache__/
+db.sqlite3
+popdensity/__pycache__/
+popdensity/migrations/__pycache__/
 popinfo/popinfo/__pycache__/
